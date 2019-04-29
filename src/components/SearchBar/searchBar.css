@@ -1,0 +1,23 @@
+header {
+  padding: 10px 75px;
+  background: wheat;
+}
+
+.searchInput {
+  height: 30px;
+  width: 300px;
+  border: 0;
+  padding: 0 10px;
+}
+
+.searchBtn {
+  padding: 5px 10px;
+  height: 30px;
+  width: 100px;
+  text-align: center;
+  background: #66c7cd;
+  border: none;
+  color: #333;
+  font-weight: 700;
+  cursor: pointer;
+}
